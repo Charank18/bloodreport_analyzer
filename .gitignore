@@ -1,0 +1,56 @@
+__pycache__
+.env
+# .gitignore
+
+# Node modules
+node_modules/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+# Ignore Python virtual environment
+venv/
+.env/
+.env.*
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# Dependency files
+*.egg-info/
+*.egg
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+
+testenv/
+venv/
+*.pyd
+*.exe
+
+testenv/
+venv/
+*.pyd
+*.dll
+*.exe
+venv/
+testenv/
+*.exe
+*.dll
+*.pyd
+venv/
