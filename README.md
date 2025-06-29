@@ -5,8 +5,9 @@ added openai key for inference and modified dependencies errors
 
 ## 🔍 Application Screenshots
 
-### Reports in my Database 
-![Reports in my Database](Screenshot%2025-06-29%173050.png)
+### 🖼️ My database
+![My database](Screenshot%202025-06-29%20173050.png)
+
 
 ### 🖼️ Screenshot 1
 ![Screenshot 1](Screenshot%202025-06-28%20123401.png)
