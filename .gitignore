@@ -54,3 +54,4 @@ testenv/
 *.dll
 *.pyd
 venv/
+# ✅ Set OpenAI key in environment for LiteLLM & CrewAI compatibility
